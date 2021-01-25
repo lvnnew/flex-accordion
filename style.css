@@ -36,22 +36,22 @@ body {
 }
 
 .item-1 {
-    background: url(img/1.jpg) no-repeat center center;
+    background: url(1.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .item-2 {
-    background: url(img/2.jpg) no-repeat center center;
+    background: url(2.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .item-3 {
-    background: url(img/3.jpg) no-repeat center center;
+    background: url(3.jpg) no-repeat center center;
     background-size: cover;
 }
 
 .item-4 {
-    background: url(img/4.jpg) no-repeat center center;
+    background: url(4.jpg) no-repeat center center;
     background-size: cover;
 }
 
